@@ -1,0 +1,20 @@
+Prüfe, ob smarty vorhanden ist
+OK
+Prüfe Schreibrechte für folgende/n Datei/Ordner: config/ko-config.php
+OK
+Prüfe Schreibrechte für folgende/n Datei/Ordner: config/leute_formular.inc
+Diese/r Datei/Ordner hat keine Schreibrechte, bitte korrigieren
+Prüfe Schreibrechte für folgende/n Datei/Ordner: download/excel
+Diese/r Datei/Ordner hat keine Schreibrechte, bitte korrigieren
+Prüfe Schreibrechte für folgende/n Datei/Ordner: download/pdf
+Diese/r Datei/Ordner hat keine Schreibrechte, bitte korrigieren
+Prüfe Schreibrechte für folgende/n Datei/Ordner: my_images
+Diese/r Datei/Ordner hat keine Schreibrechte, bitte korrigieren
+Prüfe Schreibrechte für folgende/n Datei/Ordner: templates_c
+Diese/r Datei/Ordner hat keine Schreibrechte, bitte korrigieren
+Prüfe Schreibrechte für folgende/n Datei/Ordner: webfolders
+Diese/r Datei/Ordner hat keine Schreibrechte, bitte korrigieren
+Prüfe Schreibrechte für folgende/n Datei/Ordner: .webfolders
+Diese/r Datei/Ordner hat keine Schreibrechte, bitte korrigieren
+Prüfe auf safe_mode=Off
+OK
